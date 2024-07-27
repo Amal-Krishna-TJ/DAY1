@@ -1,0 +1,80 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #282F40;
+    color: lightgray;
+    font-family: 'Segoe UI'; 
+}
+h1{
+    font-size: 20px;
+    padding-left: 70px;
+    padding-top: 20px;
+    font-style: normal;
+    font-family: "ogg";
+}
+.navbar {
+    margin: 10px 70px;
+    overflow: hidden;
+    padding: 0 20px;
+
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: #282F40;
+    color: white;
+}
+#home h2{
+    font-size: 200px;
+    padding: 0 100px;
+    margin: 0px; 
+    height: small;
+}
+#home .set{
+    font-size: 200px;
+    padding: 0 350px;
+    margin: 0px;    
+}
+#home .set1{
+    font-size: 200px;
+    padding: 0 500px;
+    margin: 0px;    
+}
+p{
+    padding: 0 70px;
+}
+#home p{
+    font-size: 40px;
+}
+#about .pad{
+    font-size: 80px;
+    padding-top: 0px;
+    padding-left: 70px;
+    font-family: "Segoe UI";
+}
+#about p{
+    font-size: 40px;
+    font-family: "Ogg";
+}
+#skill .temp{
+    font-size: 80px;
+    padding-top: 160px;
+    padding-left: 70px;
+    font-family: "Segoe UI";
+}
+#skill ul{
+    font-size: 50px;
+    font-family: "Ogg";
+    padding-left: 100px;
+    padding-bottom: 160px;
+}
